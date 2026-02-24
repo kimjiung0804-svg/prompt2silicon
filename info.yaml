@@ -19,14 +19,7 @@ project:
   source_files:
     - "project.v"
     - "hvsync_generator.v"
-    - "aquarium.v"
-    - "blue_car.v"
-    - "blue_square.v"
-    - "pixelart_cat.v"
-    - "red_car.v"
     - "stick_figure.v"
-    - "tree.v"
-    - "unicorn.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
