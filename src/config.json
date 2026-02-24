@@ -51,9 +51,7 @@
   "RIGHT_MARGIN_MULT": 6,
 
   "//": "Absolute die size",
-// "FP_SIZING": "absolute",
-  "FP_SIZING": "relative",
-  "FP_CORE_UTIL" : 80,
+  "FP_SIZING": "absolute",
 
   "GRT_ALLOW_CONGESTION": 1,
 
