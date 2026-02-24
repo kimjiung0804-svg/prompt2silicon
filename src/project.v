@@ -17,7 +17,7 @@ module tt_um_vga_example (
 );
 
     // === Instantiate the adaptable module here ===
-    tt_um_vga_tree  vga_core (
+    tt_um_vga_stick_figure vga_core (
         .ui_in   (ui_in),
         .uo_out  (uo_out),
         .uio_in  (uio_in),
